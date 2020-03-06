@@ -1,0 +1,33 @@
+body {
+    color: whitesmoke;
+    background-image: url("../img/torre_avengers.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center top;
+    }
+#menu {
+    width: 30%;
+    background-color: blueviolet;
+    color: whitesmoke;
+    box-sizing: border-box;
+    padding: 10px;
+    float: left;
+}    
+#contenido {
+    width: 70%;
+    background-color: rgba(0,0,0, 0.65);
+    float: right;
+    padding: 1%;
+    box-sizing: border-box;
+}
+h1 {color: blue; font-style: normal; font-size:xx-large; font-weight: bolder;text-align: center;}
+#logo_principal {width: 300px; display: block; margin: auto;}
+p {font-style: normal;font-size: large;text-align: justify;padding: 30px; padding-top: 5px; padding-bottom: 5px;margin: 30px;}
+a {color: black;text-decoration: none;font-weight: bold;}
+a:hover {color: white; text-decoration: none;font-weight: bold;background-color: blue;padding: 4px;border-radius: 4px;}
+#ant_man {color: black;text-decoration: none;font-weight: bold;}
+#ant_man:hover {color:grey; background-color: red;}
+#iron_man {color:black; text-decoration: none; font-weight: bold;}
+#iron_man:hover {color:gold; background-color: red;}
+#thor {color:black; text-decoration: none; font-weight: bold;}
+#thor:hover {color:silver; background-color: blue;}
